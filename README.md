@@ -1,3 +1,7 @@
+# Update!
+
+As for now the wikipedia site has changed and it's impossible to view dashboard. I will fix it asap!
+
 # CoronaDashVis
 
 Simple visualization of Coronavirus in Poland
